@@ -1,2 +1,2 @@
 # administrador_comida
-Dema de administracion de comida rapida 
+Demo de administracion de comida rapida html php mysql
